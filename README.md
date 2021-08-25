@@ -14,6 +14,6 @@ project descrition:-
                                             **How to configure remote execution program.
                                             **How to configure Docker.
                                             **How to Launch a ubuntu container 
-                                            **Also the Basics commands of linux as date , cal, pwd,ls,mkdir,rmdir,etc.</b>
+                                            **Also the Basics commands of linux as date , cal, pwd,ls,mkdir,rmdir,lvcreate,vgcreate,cron,fstab etc.</b>
                                             
                                         
