@@ -10,10 +10,10 @@ project descrition:-</b>
                     In this project Video i created a menu based program , means after pressing the specific keywords the commands of <b>LINUX</b> and <b>Docker</b> is running .
                     I cover the conepts like -</b>
                                           <b>  **How to add a user</b>
-                                            **How to configure web services.</b>
-                                            **How to configure remote execution program.</b>
-                                            **How to configure Docker.</b>
-                                            **How to Launch a ubuntu container </b>
+                                            **How to configure web services.
+                                            **How to configure remote execution program.
+                                            **How to configure Docker.
+                                            **How to Launch a ubuntu container 
                                             **Also the Basics commands of linux as date , cal, pwd,ls,mkdir,rmdir,lvcreate,vgcreate,cron,fstab etc.</b>
                                             
                                         
